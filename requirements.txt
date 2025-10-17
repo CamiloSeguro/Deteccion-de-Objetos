@@ -19,3 +19,4 @@ yolov5==7.0.9
 #torchvision>=0.9.0
 tqdm>=4.64.0
 huggingface-hub==0.24.7
+pandas
